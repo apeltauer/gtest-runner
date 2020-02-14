@@ -8,7 +8,7 @@ set(QT_MINIMUM_VERSION 5.3.0)
 #-------------------------------------------------------------------------------
 #	PROJECT SETTINGS
 #-------------------------------------------------------------------------------
-
+#test commit
 set(TARGET_NAME gtest-runner)
 
 # Use git branch as project name if clones from git
